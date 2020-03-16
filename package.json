@@ -23,6 +23,6 @@
     "webdriverio": "^5.17.0"
   },
   "dependencies": {
-    "@wdio/cli": "^5.12.5"
+    "@wdio/cli": "^5.22.0"
   }
 }
